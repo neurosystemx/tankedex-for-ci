@@ -15,5 +15,3 @@ jobs:
       - name: Give me the date
         run: date
       - run: ls -l
-      - name: Give me the O.S.
-        run: uname -a
