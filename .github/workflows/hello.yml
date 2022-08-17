@@ -14,4 +14,3 @@ jobs:
           echo "Hola Neuro!"
       - name: Give me the date
         run: date
-      - run: ls -l
